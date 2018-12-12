@@ -1,4 +1,11 @@
+Netlify identity widget demo app
+-------------------------------------
+
+@2018/12/12
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ### Additional modules included
 
@@ -16,14 +23,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Prerequisites
 
-a netlify account, and,
+* a netlify account;
 
-a site app setup in [netlify](https://app.netlify.com/), and an API endpoint needed while locally running. The endpoint can be obtained from your netlify site `Identity` page.
+* a site app setup(New site from Git) in [netlify](https://app.netlify.com/);
+
+* `Enable Identity` in site Identity tab page;
+
+* an API endpoint URL needed while locally running;
 
 
 ### Online Demo
 
-[here]()
+[here](https://netlify-id-widget-demo.netlify.com/)
 
 ### Others?
 
